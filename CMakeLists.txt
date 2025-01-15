@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(cses_fi "graph algorithms/counting-rooms.cpp"
         "graph algorithms/labyrinth.cpp"
         "graph algorithms/building-roads .cpp"
-        "graph algorithms/message-route.cpp")
+        "graph algorithms/message-route.cpp"
+        "graph algorithms/building-teams.cpp"
+        "graph algorithms/round-trip.cpp")
