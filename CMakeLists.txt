@@ -38,4 +38,5 @@ add_executable(cses_fi "graph algorithms/counting-rooms.cpp"
         introductory-problems/gray-code.cpp
         introductory-problems/creating-strings.cpp
         introductory-problems/apple-division.cpp
-        introductory-problems/chessboard-and-queens.cpp)
+        introductory-problems/chessboard-and-queens.cpp
+        introductory-problems/tower-of-hanoi.cpp)
