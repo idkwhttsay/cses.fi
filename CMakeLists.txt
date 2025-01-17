@@ -39,4 +39,19 @@ add_executable(cses_fi "graph algorithms/counting-rooms.cpp"
         introductory-problems/creating-strings.cpp
         introductory-problems/apple-division.cpp
         introductory-problems/chessboard-and-queens.cpp
-        introductory-problems/tower-of-hanoi.cpp)
+        introductory-problems/tower-of-hanoi.cpp
+        dynamic-programming/dice-combinations.cpp
+        dynamic-programming/minimizing-coins.cpp
+        dynamic-programming/coin-combinations-1.cpp
+        dynamic-programming/coin-combinations-2.cpp
+        dynamic-programming/removing-digits.cpp
+        dynamic-programming/grid-path.cpp
+        dynamic-programming/book-shop.cpp
+        dynamic-programming/array-description.cpp
+        dynamic-programming/counting-towers.cpp
+        dynamic-programming/edit-distance.cpp
+        dynamic-programming/rectangle-cutting.cpp
+        dynamic-programming/money-sums.cpp
+        dynamic-programming/removal-game.cpp
+        dynamic-programming/two-sets-2.cpp
+        dynamic-programming/increasing-subsequence.cpp)
