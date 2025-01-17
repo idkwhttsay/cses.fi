@@ -22,4 +22,20 @@ add_executable(cses_fi "graph algorithms/counting-rooms.cpp"
         "graph algorithms/game-routes.cpp"
         "graph algorithms/road-reparation.cpp"
         "graph algorithms/road-construction.cpp"
-        "graph algorithms/flight-routes-check.cpp")
+        "graph algorithms/flight-routes-check.cpp"
+        introductory-problems/weird-algorithm.cpp
+        introductory-problems/missing-number.cpp
+        introductory-problems/repetitions.cpp
+        introductory-problems/increasing-array.cpp
+        introductory-problems/permutations.cpp
+        introductory-problems/number-spiral.cpp
+        introductory-problems/two-knights.cpp
+        introductory-problems/two-sets.cpp
+        introductory-problems/bit-strings.cpp
+        introductory-problems/trailing-zeros.cpp
+        introductory-problems/coin-piles.cpp
+        introductory-problems/palindrome-reorder.cpp
+        introductory-problems/gray-code.cpp
+        introductory-problems/creating-strings.cpp
+        introductory-problems/apple-division.cpp
+        introductory-problems/chessboard-and-queens.cpp)
