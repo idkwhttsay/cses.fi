@@ -67,4 +67,22 @@ add_executable(cses_fi "graph algorithms/counting-rooms.cpp"
         range-queries/salary-queries.cpp
         range-queries/prefix-sum-queries.cpp
         range-queries/subarray-sum-queries.cpp
-        range-queries/distinct-values-queries.cpp)
+        range-queries/distinct-values-queries.cpp
+        sorting-and-searching/distinct-numbers.cpp
+        sorting-and-searching/apartments.cpp
+        sorting-and-searching/ferris-wheel.cpp
+        sorting-and-searching/concert-tickets.cpp
+        sorting-and-searching/restaraunt-customers.cpp
+        sorting-and-searching/movie-festival.cpp
+        sorting-and-searching/sum-of-two-values.cpp
+        sorting-and-searching/max-subarray-sum.cpp
+        sorting-and-searching/stick-lengths.cpp
+        sorting-and-searching/missing-coin-sum.cpp
+        sorting-and-searching/collecting-numbers.cpp
+        sorting-and-searching/collecting-numbers-2.cpp
+        sorting-and-searching/playlist.cpp
+        sorting-and-searching/towers.cpp
+        sorting-and-searching/josephus-problem-1.cpp
+        sorting-and-searching/factory-machines.cpp
+        sorting-and-searching/subarray-sums-1.cpp
+        sorting-and-searching/subarray-sums-2.cpp)
