@@ -54,4 +54,17 @@ add_executable(cses_fi "graph algorithms/counting-rooms.cpp"
         dynamic-programming/money-sums.cpp
         dynamic-programming/removal-game.cpp
         dynamic-programming/two-sets-2.cpp
-        dynamic-programming/increasing-subsequence.cpp)
+        dynamic-programming/increasing-subsequence.cpp
+        range-queries/static-range-sum-queries.cpp
+        range-queries/static-range-minimum-queries.cpp
+        range-queries/dynamic-range-sum-queries.cpp
+        range-queries/dynamic-range-minimum-queries.cpp
+        range-queries/range-xor-queries.cpp
+        range-queries/range-update-queries.cpp
+        range-queries/forest-queries.cpp
+        range-queries/hotel-queries.cpp
+        range-queries/list-removals.cpp
+        range-queries/salary-queries.cpp
+        range-queries/prefix-sum-queries.cpp
+        range-queries/subarray-sum-queries.cpp
+        range-queries/distinct-values-queries.cpp)
