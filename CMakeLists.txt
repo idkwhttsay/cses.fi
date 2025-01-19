@@ -96,4 +96,5 @@ add_executable(cses_fi "graph algorithms/counting-rooms.cpp"
         mathematics/bracket-sequences-1.cpp
         mathematics/fibonacci-numbers.cpp
         mathematics/graph-paths-1.cpp
-        mathematics/graph-paths-2.cpp)
+        mathematics/graph-paths-2.cpp
+        sorting-and-searching/subarray-divisibility.cpp)
