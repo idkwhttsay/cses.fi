@@ -85,4 +85,15 @@ add_executable(cses_fi "graph algorithms/counting-rooms.cpp"
         sorting-and-searching/josephus-problem-1.cpp
         sorting-and-searching/factory-machines.cpp
         sorting-and-searching/subarray-sums-1.cpp
-        sorting-and-searching/subarray-sums-2.cpp)
+        sorting-and-searching/subarray-sums-2.cpp
+        mathematics/exponentiation.cpp
+        mathematics/exponentiation-2.cpp
+        mathematics/counting-divisors.cpp
+        mathematics/binominal-coefficents.cpp
+        mathematics/creating-strings-2.cpp
+        mathematics/distributing-apples.cpp
+        mathematics/christmas-party.cpp
+        mathematics/bracket-sequences-1.cpp
+        mathematics/fibonacci-numbers.cpp
+        mathematics/graph-paths-1.cpp
+        mathematics/graph-paths-2.cpp)
